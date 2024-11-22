@@ -1,3 +1,0 @@
-# LongevityWorldCup
-
-Demo
